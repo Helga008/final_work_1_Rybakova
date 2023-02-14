@@ -10,7 +10,6 @@ int getIntFromUser(string message)
 }
 
 
-
 string[] GetStringArray (int length)
 {
     string[] array = new string[length];
